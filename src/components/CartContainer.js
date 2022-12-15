@@ -10,7 +10,7 @@ const CartContainer = () => {
     return (
       <section className='cart'>
         <header>
-          <h2>your bag of Bach Hai</h2>
+          <h2>bag of Bach Hai</h2>
           <h4 className='empty-cart'>is currently empty</h4>
         </header>
       </section>
