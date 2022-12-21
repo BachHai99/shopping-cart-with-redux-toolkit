@@ -1,1 +1,1 @@
-///
+console.log("xin chào")
