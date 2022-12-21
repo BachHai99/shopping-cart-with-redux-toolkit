@@ -1,1 +1,6 @@
 console.log("xin chào")
+console(123123123)
+console(123123123)
+console(123123123)
+console(123123123)
+console(123123123)
